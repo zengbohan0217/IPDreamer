@@ -3,11 +3,16 @@
 The following content includes the environment installing of IPDreamer, training and testing commands, as well as a demonstration of the results.
 
 <p align="center">
-<img src="assets/castle1.gif" width="120" height="120"> <img src="assets/castle2.gif" width="120" height="120"> <img src="assets/shoe1.gif" width="120" height="120"> <img src="assets/shoe2.gif" width="120" height="120"> <img src="assets/car.gif" width="120" height="120">
+<img src="assets/castle_s1.gif" width="120" height="120"> <img src="assets/castle_IPs.png" width="240" height="120"> <img src="assets/castle1.gif" width="120" height="120"> <img src="assets/castle2.gif" width="120" height="120"> 
+<br/>
+<img src="assets/shoe_s1.gif" width="120" height="120"> <img src="assets/shoe_IPs.png" width="240" height="120"> <img src="assets/shoe1.gif" width="120" height="120"> <img src="assets/shoe2.gif" width="120" height="120"> 
+<br/>
+<img src="assets/car_s1.gif" width="120" height="120"> <img src="assets/car_IPs.png" width="160" height="120"> <img src="assets/car.gif" width="120" height="120">
 </p>
 
-## Install
+The paper of IPDreamer can be referred to in the [arxiv](https://arxiv.org/pdf/2310.05375.pdf)
 
+## Install
 
 ### Install with pip
 
