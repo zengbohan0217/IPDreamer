@@ -2,7 +2,9 @@
 
 The following content includes the environment installing of IPDreamer, training and testing commands, as well as a demonstration of the results.
 
-
+<p align="center">
+<img src="assets/castle1.gif" width="120" height="120"> <img src="assets/castle2.gif" width="120" height="120"> <img src="assets/shoe1.gif" width="120" height="120"> <img src="assets/shoe2.gif" width="120" height="120"> <img src="assets/car.gif" width="120" height="120">
+</p>
 
 ## Install
 
