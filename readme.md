@@ -12,6 +12,12 @@ The following content includes the environment installing of IPDreamer, training
 
 The paper of IPDreamer can be referred to in the [arxiv](https://arxiv.org/pdf/2310.05375.pdf)
 
+
+## Planning
+  - [√] Providing training code of IPSD.
+  - [ ] Releasing training code of LEPI.
+
+
 ## Install
 
 ### Install with pip
