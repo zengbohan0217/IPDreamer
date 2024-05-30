@@ -136,3 +136,14 @@ python CUDA_VISIBLE_DEVICES=7 python test_v1.py --init_with output/trial_dmtet_t
 ```
 
 
+## Citation
+If you find this code/paper useful, please consider citing:
+
+```bibtex
+@article{zeng2023ipdreamer,
+  title={Ipdreamer: Appearance-controllable 3d object generation with image prompts},
+  author={Zeng, Bohan and Li, Shanglin and Feng, Yutang and Li, Hong and Gao, Sicheng and Liu, Jiaming and Li, Huaxia and Tang, Xu and Liu, Jianzhuang and Zhang, Baochang},
+  journal={arXiv preprint arXiv:2310.05375},
+  year={2023}
+}
+```
