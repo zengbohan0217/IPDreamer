@@ -13,10 +13,6 @@ The following content includes the environment installing of IPDreamer, training
 The paper of IPDreamer can be referred to in the [arxiv](https://arxiv.org/pdf/2310.05375.pdf)
 
 
-## Planning
-  - [√] Providing training code of IPSD.
-  - [ ] Releasing training code of LEPI.
-
 
 ## Install
 
@@ -142,7 +138,7 @@ If you find this code/paper useful, please consider citing:
 ```bibtex
 @article{zeng2023ipdreamer,
   title={Ipdreamer: Appearance-controllable 3d object generation with image prompts},
-  author={Zeng, Bohan and Li, Shanglin and Feng, Yutang and Li, Hong and Gao, Sicheng and Liu, Jiaming and Li, Huaxia and Tang, Xu and Liu, Jianzhuang and Zhang, Baochang},
+  author={Zeng, Bohan and Li, Shanglin and Feng, Yutang and Yang, Ling and Li, Hong and Gao, Sicheng and Liu, Jiaming and He, Conghui and Zhang, Wentao and Liu, Jianzhuang and Zhang, Baochang and Yan, Shuicheng},
   journal={arXiv preprint arXiv:2310.05375},
   year={2023}
 }
